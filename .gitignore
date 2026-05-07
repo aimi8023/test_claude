@@ -1,0 +1,8 @@
+*.mp4
+*.mkv
+*.avi
+*.flv
+.claude/
+__pycache__/
+*.pyc
+.env
